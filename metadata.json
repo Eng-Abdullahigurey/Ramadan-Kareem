@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NoorTrack - Ramadan & Worship Companion",
+  "description": "A premium spiritual productivity app for tracking daily worship, prayer times, and Quran progress with elegant design and insightful statistics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
